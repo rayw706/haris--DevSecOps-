@@ -1,0 +1,8 @@
+astroid
+bandit
+scikit-learn
+pandas
+numpy
+jinja2
+pyyaml
+joblib
